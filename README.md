@@ -7,6 +7,6 @@ All about Recursion+Backtracking
   - https://youtube.com/playlist?list=PLgUwDviBIf0rGlzIn_7rsaR2FQ5e6ZOL9 (Take U Forward)
           
 
-- PDF(of notes): https://drive.google.com/file/d/1NXtNY5zQXIUMLcBan-_MpuGN_gnZKTMh/view?usp=sharing
+- PDF(of notes): 
 
 Would love if you could add more resources :)
